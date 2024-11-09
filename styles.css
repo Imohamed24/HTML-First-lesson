@@ -5,3 +5,8 @@
 #span-info{
     font-size: 24px;
 }
+
+img{
+    max-width: 25%;
+    max-height: 25%
+    }
